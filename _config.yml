@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: 794008784@qq.com
 description: "Every man has one destiny."
 keyword: "LyndonYang的博客, LyndonYang, LyndonYang, DataBase developer, C/C++, Linux, Python, Shell"
-url: "https://yanghao1992.github.io"          # your host, for absolute URL
+url: "https://YangHao666666.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/YangHao1992/YangHao1992.github.io.git" # you code repository
+github_repo: "https://github.com/YangHao666666/YangHao666666.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 2d925b966b409f82cf55                            #生成的clientID
   clientSecret: 57441882386c205c51d6cdaab7fddcbddaa800a5    #生成的clientSecret
-  repo: YangHao1992.github.io    #仓库名称
-  owner: YangHao1992    #github用户名
-  admin: YangHao1992
+  repo: YangHao666666.github.io    #仓库名称
+  owner: YangHao666666    #github用户名
+  admin: YangHao666666
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
